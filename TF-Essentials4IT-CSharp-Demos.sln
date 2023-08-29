@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Event", "Demo-Event\De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-MultiHeritage", "Demo-MultiHeritage\Demo-MultiHeritage.csproj", "{79B3ED9C-14CA-464F-A8B2-1F016F8B0429}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Interfaces", "Demo-Interfaces\Demo-Interfaces.csproj", "{1CA0FB6A-6EF1-4B76-9C75-1A40312BB472}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Interfaces", "Demo-Interfaces\Demo-Interfaces.csproj", "{1CA0FB6A-6EF1-4B76-9C75-1A40312BB472}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Interfaces-Restriction", "Demo-Interfaces-Restriction\Demo-Interfaces-Restriction.csproj", "{886B3E2B-E319-4E38-8AB6-5512A53E02F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Interfaces-Restriction", "Demo-Interfaces-Restriction\Demo-Interfaces-Restriction.csproj", "{886B3E2B-E319-4E38-8AB6-5512A53E02F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-SaveJSON", "Demo-SaveJSON\Demo-SaveJSON.csproj", "{D4B9C0B0-293C-4353-A589-317B737851AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{886B3E2B-E319-4E38-8AB6-5512A53E02F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{886B3E2B-E319-4E38-8AB6-5512A53E02F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{886B3E2B-E319-4E38-8AB6-5512A53E02F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B9C0B0-293C-4353-A589-317B737851AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B9C0B0-293C-4353-A589-317B737851AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B9C0B0-293C-4353-A589-317B737851AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B9C0B0-293C-4353-A589-317B737851AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
